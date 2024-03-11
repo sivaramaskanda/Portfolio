@@ -1,12 +1,12 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/Homepage.jpeg",
+    "alt": "Skanda's Homepage"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
+    "src": "images/About3.jpeg",
     "alt": "gray abstract background"
   },
   {
